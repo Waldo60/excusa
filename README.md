@@ -41,11 +41,11 @@ wget -q -O instala.sh https://www.dropbox.com/s/i87udxpj1lj17sa/instala.sh; chmo
 ```
 
 ```
-☆ https://t.me/chumogh ☆
+☆ https://t.me/chumogh☆
 
  Grupo de Script Oficial en Telegram
 
-☆ https://t.me/joinchat/AAAAAFeVnscijP7aZd1ChQ ☆
+☆ https://t.me/joinchat/AAAAAFeVnscijP7aZd1ChQ☆
 
 ```
 WEB SITE
