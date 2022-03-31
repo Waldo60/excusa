@@ -34,10 +34,3 @@ ULTIMA ACTUALIZACION : 13-11-2020 | 8:25
 * Reinicio de Servicios programado
 * Bloqueo de Usuarios
 ```
-
-```
-☆ https://t.me/chumogh☆
-
- Grupo de Script Oficial en Tele
-
-```
