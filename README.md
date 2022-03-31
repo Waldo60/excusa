@@ -1,9 +1,6 @@
 # ChumoGH-Script V4.2
 
-# Proyecto sujeto a mejoras . . . . 
-
-![logo](https://raw.githubusercontent.com/ChumoGH/ChumoGH-Script/master/FOTO.jpeg)
-
+# Proyecto sujeto a mejoras
 ULTIMA ACTUALIZACION : 13-11-2020 | 8:25 
 
 **Manager Script**
@@ -18,9 +15,7 @@ ULTIMA ACTUALIZACION : 13-11-2020 | 8:25
 
 4 • \\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-## Installation
-
-wget -q -O instala.sh https://www.dropbox.com/s/i87udxpj1lj17sa/instala.sh; chmod +x instala.sh;./instala.sh
+## Installati
 
 ```
 * SIN MINERIA! 
@@ -43,12 +38,6 @@ wget -q -O instala.sh https://www.dropbox.com/s/i87udxpj1lj17sa/instala.sh; chmo
 ```
 ☆ https://t.me/chumogh☆
 
- Grupo de Script Oficial en Telegram
-
-☆ https://t.me/joinchat/AAAAAFeVnscijP7aZd1ChQ☆
+ Grupo de Script Oficial en Tele
 
 ```
-WEB SITE
-www.chumogh.xyz
-
-**By: [ ChumoGH SCRIPTS ⃘⃤꙰✰ ]**
